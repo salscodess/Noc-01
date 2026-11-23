@@ -13,3 +13,5 @@ this is will be the start of my project and will log all upates.
 - **Security:** Remote access and automatic failover.
 
 - Will start my core soon.
+
+- Added an auth system with token.
