@@ -14,11 +14,11 @@ Security: Remote access, authentication, and automatic failover.
 Development of the core infrastructure will begin first.
 
 Development Log
-11/23
-Added an authentication system using API tokens.
-11/24
-Added a check-in system to monitor device availability.
-Added an asynchronous device checker.
-Created a database manager module for easier database operations.
-Added a basic console-based alert system to flag unresponsive devices.
-Created a makeshift client-side script for testing.
+11/23\n
+- Added an authentication system using API tokens.
+11/24\n
+- Added a check-in system to monitor device availability.
+- Added an asynchronous device checker.
+- Created a database manager module for easier database operations.
+- Added a basic console-based alert system to flag unresponsive devices.
+- Created a makeshift client-side script for testing.
