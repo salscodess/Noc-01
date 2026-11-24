@@ -1,24 +1,24 @@
-# Noc-01
-Home server with monitoring and system resource management 
+NOC-01
 
+Home server focused on monitoring, system resource management, and centralized device control.
 
-this is will be the start of my project and will log all upates. 
+This is the starting point of my project. I'll use this repository to document all updates, changes, and developments as the project progresses.
 
-# NOC Overview
+NOC Overview
+Core: Raspberry Pi 5 running a centralized API.
+Cloud: Websites, Docker, Linux, and penetration-testing labs.
+Dashboard: Live monitoring and analytics.
+Hardware: ESP32s, Raspberry Pi Picos, screens, switches, and other peripherals.
+Security: Remote access, authentication, and automatic failover.
 
-- **Core:** Pi 5 with centralized API.
-- **Cloud:** Websites, Docker, Linux, pentesting labs.
-- **Dashboard:** Live monitoring and analytics.
-- **Hardware:** ESP32s, Picos, screens, switches.
-- **Security:** Remote access and automatic failover.
+Development of the core infrastructure will begin first.
 
-- Will start my core soon.
-
+Development Log
 11/23
-- Added an auth system with token.
+Added an authentication system using API tokens.
 11/24
-- Added a check in system to see if devices are online
-- Added async checker
-- Added a DB manager module for easier use
-- Added makeshift alert via console to check a device if not responding
-- Quick Client side script for testing
+Added a check-in system to monitor device availability.
+Added an asynchronous device checker.
+Created a database manager module for easier database operations.
+Added a basic console-based alert system to flag unresponsive devices.
+Created a makeshift client-side script for testing.
